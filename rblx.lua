@@ -1,5 +1,4 @@
 --Services and requires
-local PositionsTable = require(game.ReplicatedStorage.Modules.TemplateGuiPositions)
 local ClothingInfo = require(game.ReplicatedStorage.Modules.ClothingInfo)
 local Shime = require(game.ReplicatedStorage.Modules.Shime)
 local TweenService = game:GetService("TweenService")
