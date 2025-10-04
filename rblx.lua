@@ -1,4 +1,3 @@
-```lua
 --Services and requires
 local PositionsTable = require(game.ReplicatedStorage.Modules.TemplateGuiPositions)
 local ClothingInfo = require(game.ReplicatedStorage.Modules.ClothingInfo)
